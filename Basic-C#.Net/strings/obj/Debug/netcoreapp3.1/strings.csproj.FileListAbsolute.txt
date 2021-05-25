@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\strings\bin\Debug\netcoreapp3.1\strings.exe
+D:\C#_.Net_projects\strings\bin\Debug\netcoreapp3.1\strings.deps.json
+D:\C#_.Net_projects\strings\bin\Debug\netcoreapp3.1\strings.runtimeconfig.json
+D:\C#_.Net_projects\strings\bin\Debug\netcoreapp3.1\strings.runtimeconfig.dev.json
+D:\C#_.Net_projects\strings\bin\Debug\netcoreapp3.1\strings.dll
+D:\C#_.Net_projects\strings\bin\Debug\netcoreapp3.1\strings.pdb
+D:\C#_.Net_projects\strings\obj\Debug\netcoreapp3.1\strings.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\strings\obj\Debug\netcoreapp3.1\strings.AssemblyInfo.cs
+D:\C#_.Net_projects\strings\obj\Debug\netcoreapp3.1\strings.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\strings\obj\Debug\netcoreapp3.1\strings.dll
+D:\C#_.Net_projects\strings\obj\Debug\netcoreapp3.1\strings.pdb
+D:\C#_.Net_projects\strings\obj\Debug\netcoreapp3.1\strings.genruntimeconfig.cache
+D:\C#_.Net_projects\strings\obj\Debug\netcoreapp3.1\strings.csprojAssemblyReference.cache

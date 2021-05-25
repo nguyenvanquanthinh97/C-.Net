@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\arrays\bin\Debug\netcoreapp3.1\arrays.exe
+D:\C#_.Net_projects\arrays\bin\Debug\netcoreapp3.1\arrays.deps.json
+D:\C#_.Net_projects\arrays\bin\Debug\netcoreapp3.1\arrays.runtimeconfig.json
+D:\C#_.Net_projects\arrays\bin\Debug\netcoreapp3.1\arrays.runtimeconfig.dev.json
+D:\C#_.Net_projects\arrays\bin\Debug\netcoreapp3.1\arrays.dll
+D:\C#_.Net_projects\arrays\bin\Debug\netcoreapp3.1\arrays.pdb
+D:\C#_.Net_projects\arrays\obj\Debug\netcoreapp3.1\arrays.csprojAssemblyReference.cache
+D:\C#_.Net_projects\arrays\obj\Debug\netcoreapp3.1\arrays.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\arrays\obj\Debug\netcoreapp3.1\arrays.AssemblyInfo.cs
+D:\C#_.Net_projects\arrays\obj\Debug\netcoreapp3.1\arrays.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\arrays\obj\Debug\netcoreapp3.1\arrays.dll
+D:\C#_.Net_projects\arrays\obj\Debug\netcoreapp3.1\arrays.pdb
+D:\C#_.Net_projects\arrays\obj\Debug\netcoreapp3.1\arrays.genruntimeconfig.cache

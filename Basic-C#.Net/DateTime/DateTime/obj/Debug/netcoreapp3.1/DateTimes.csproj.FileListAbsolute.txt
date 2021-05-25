@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTimes.exe
+D:\C#_.Net_projects\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTimes.deps.json
+D:\C#_.Net_projects\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTimes.runtimeconfig.json
+D:\C#_.Net_projects\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTimes.runtimeconfig.dev.json
+D:\C#_.Net_projects\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTimes.dll
+D:\C#_.Net_projects\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTimes.pdb
+D:\C#_.Net_projects\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTimes.csprojAssemblyReference.cache
+D:\C#_.Net_projects\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTimes.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTimes.AssemblyInfo.cs
+D:\C#_.Net_projects\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTimes.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTimes.dll
+D:\C#_.Net_projects\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTimes.pdb
+D:\C#_.Net_projects\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTimes.genruntimeconfig.cache

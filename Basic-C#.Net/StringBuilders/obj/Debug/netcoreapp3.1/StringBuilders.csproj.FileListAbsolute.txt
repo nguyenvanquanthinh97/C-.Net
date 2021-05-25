@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\StringBuilders\bin\Debug\netcoreapp3.1\StringBuilders.exe
+D:\C#_.Net_projects\StringBuilders\bin\Debug\netcoreapp3.1\StringBuilders.deps.json
+D:\C#_.Net_projects\StringBuilders\bin\Debug\netcoreapp3.1\StringBuilders.runtimeconfig.json
+D:\C#_.Net_projects\StringBuilders\bin\Debug\netcoreapp3.1\StringBuilders.runtimeconfig.dev.json
+D:\C#_.Net_projects\StringBuilders\bin\Debug\netcoreapp3.1\StringBuilders.dll
+D:\C#_.Net_projects\StringBuilders\bin\Debug\netcoreapp3.1\StringBuilders.pdb
+D:\C#_.Net_projects\StringBuilders\obj\Debug\netcoreapp3.1\StringBuilders.csprojAssemblyReference.cache
+D:\C#_.Net_projects\StringBuilders\obj\Debug\netcoreapp3.1\StringBuilders.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\StringBuilders\obj\Debug\netcoreapp3.1\StringBuilders.AssemblyInfo.cs
+D:\C#_.Net_projects\StringBuilders\obj\Debug\netcoreapp3.1\StringBuilders.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\StringBuilders\obj\Debug\netcoreapp3.1\StringBuilders.dll
+D:\C#_.Net_projects\StringBuilders\obj\Debug\netcoreapp3.1\StringBuilders.pdb
+D:\C#_.Net_projects\StringBuilders\obj\Debug\netcoreapp3.1\StringBuilders.genruntimeconfig.cache

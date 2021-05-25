@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\Variable_Constant\bin\Debug\netcoreapp3.1\Variable_Constant.exe
+D:\C#_.Net_projects\Variable_Constant\bin\Debug\netcoreapp3.1\Variable_Constant.deps.json
+D:\C#_.Net_projects\Variable_Constant\bin\Debug\netcoreapp3.1\Variable_Constant.runtimeconfig.json
+D:\C#_.Net_projects\Variable_Constant\bin\Debug\netcoreapp3.1\Variable_Constant.runtimeconfig.dev.json
+D:\C#_.Net_projects\Variable_Constant\bin\Debug\netcoreapp3.1\Variable_Constant.dll
+D:\C#_.Net_projects\Variable_Constant\bin\Debug\netcoreapp3.1\Variable_Constant.pdb
+D:\C#_.Net_projects\Variable_Constant\obj\Debug\netcoreapp3.1\Variable_Constant.csprojAssemblyReference.cache
+D:\C#_.Net_projects\Variable_Constant\obj\Debug\netcoreapp3.1\Variable_Constant.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\Variable_Constant\obj\Debug\netcoreapp3.1\Variable_Constant.AssemblyInfo.cs
+D:\C#_.Net_projects\Variable_Constant\obj\Debug\netcoreapp3.1\Variable_Constant.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\Variable_Constant\obj\Debug\netcoreapp3.1\Variable_Constant.dll
+D:\C#_.Net_projects\Variable_Constant\obj\Debug\netcoreapp3.1\Variable_Constant.pdb
+D:\C#_.Net_projects\Variable_Constant\obj\Debug\netcoreapp3.1\Variable_Constant.genruntimeconfig.cache

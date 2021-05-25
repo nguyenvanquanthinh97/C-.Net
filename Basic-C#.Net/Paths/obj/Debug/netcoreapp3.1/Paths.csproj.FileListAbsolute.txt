@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\Paths\bin\Debug\netcoreapp3.1\Paths.exe
+D:\C#_.Net_projects\Paths\bin\Debug\netcoreapp3.1\Paths.deps.json
+D:\C#_.Net_projects\Paths\bin\Debug\netcoreapp3.1\Paths.runtimeconfig.json
+D:\C#_.Net_projects\Paths\bin\Debug\netcoreapp3.1\Paths.runtimeconfig.dev.json
+D:\C#_.Net_projects\Paths\bin\Debug\netcoreapp3.1\Paths.dll
+D:\C#_.Net_projects\Paths\bin\Debug\netcoreapp3.1\Paths.pdb
+D:\C#_.Net_projects\Paths\obj\Debug\netcoreapp3.1\Paths.csprojAssemblyReference.cache
+D:\C#_.Net_projects\Paths\obj\Debug\netcoreapp3.1\Paths.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\Paths\obj\Debug\netcoreapp3.1\Paths.AssemblyInfo.cs
+D:\C#_.Net_projects\Paths\obj\Debug\netcoreapp3.1\Paths.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\Paths\obj\Debug\netcoreapp3.1\Paths.dll
+D:\C#_.Net_projects\Paths\obj\Debug\netcoreapp3.1\Paths.pdb
+D:\C#_.Net_projects\Paths\obj\Debug\netcoreapp3.1\Paths.genruntimeconfig.cache

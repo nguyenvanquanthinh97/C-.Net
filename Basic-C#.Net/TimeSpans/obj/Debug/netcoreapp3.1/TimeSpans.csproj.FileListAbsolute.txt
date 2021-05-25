@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\TimeSpans\bin\Debug\netcoreapp3.1\TimeSpans.exe
+D:\C#_.Net_projects\TimeSpans\bin\Debug\netcoreapp3.1\TimeSpans.deps.json
+D:\C#_.Net_projects\TimeSpans\bin\Debug\netcoreapp3.1\TimeSpans.runtimeconfig.json
+D:\C#_.Net_projects\TimeSpans\bin\Debug\netcoreapp3.1\TimeSpans.runtimeconfig.dev.json
+D:\C#_.Net_projects\TimeSpans\bin\Debug\netcoreapp3.1\TimeSpans.dll
+D:\C#_.Net_projects\TimeSpans\bin\Debug\netcoreapp3.1\TimeSpans.pdb
+D:\C#_.Net_projects\TimeSpans\obj\Debug\netcoreapp3.1\TimeSpans.csprojAssemblyReference.cache
+D:\C#_.Net_projects\TimeSpans\obj\Debug\netcoreapp3.1\TimeSpans.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\TimeSpans\obj\Debug\netcoreapp3.1\TimeSpans.AssemblyInfo.cs
+D:\C#_.Net_projects\TimeSpans\obj\Debug\netcoreapp3.1\TimeSpans.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\TimeSpans\obj\Debug\netcoreapp3.1\TimeSpans.dll
+D:\C#_.Net_projects\TimeSpans\obj\Debug\netcoreapp3.1\TimeSpans.pdb
+D:\C#_.Net_projects\TimeSpans\obj\Debug\netcoreapp3.1\TimeSpans.genruntimeconfig.cache

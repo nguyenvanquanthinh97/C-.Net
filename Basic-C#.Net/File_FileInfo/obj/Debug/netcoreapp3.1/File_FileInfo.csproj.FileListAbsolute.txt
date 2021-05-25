@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\File_FileInfo\bin\Debug\netcoreapp3.1\File_FileInfo.exe
+D:\C#_.Net_projects\File_FileInfo\bin\Debug\netcoreapp3.1\File_FileInfo.deps.json
+D:\C#_.Net_projects\File_FileInfo\bin\Debug\netcoreapp3.1\File_FileInfo.runtimeconfig.json
+D:\C#_.Net_projects\File_FileInfo\bin\Debug\netcoreapp3.1\File_FileInfo.runtimeconfig.dev.json
+D:\C#_.Net_projects\File_FileInfo\bin\Debug\netcoreapp3.1\File_FileInfo.dll
+D:\C#_.Net_projects\File_FileInfo\bin\Debug\netcoreapp3.1\File_FileInfo.pdb
+D:\C#_.Net_projects\File_FileInfo\obj\Debug\netcoreapp3.1\File_FileInfo.csprojAssemblyReference.cache
+D:\C#_.Net_projects\File_FileInfo\obj\Debug\netcoreapp3.1\File_FileInfo.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\File_FileInfo\obj\Debug\netcoreapp3.1\File_FileInfo.AssemblyInfo.cs
+D:\C#_.Net_projects\File_FileInfo\obj\Debug\netcoreapp3.1\File_FileInfo.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\File_FileInfo\obj\Debug\netcoreapp3.1\File_FileInfo.dll
+D:\C#_.Net_projects\File_FileInfo\obj\Debug\netcoreapp3.1\File_FileInfo.pdb
+D:\C#_.Net_projects\File_FileInfo\obj\Debug\netcoreapp3.1\File_FileInfo.genruntimeconfig.cache

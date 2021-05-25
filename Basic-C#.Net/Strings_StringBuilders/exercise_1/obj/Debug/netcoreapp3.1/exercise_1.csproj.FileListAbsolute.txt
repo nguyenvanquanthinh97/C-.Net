@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\Strings_StringBuilders\exercise_1\bin\Debug\netcoreapp3.1\exercise_1.exe
+D:\C#_.Net_projects\Strings_StringBuilders\exercise_1\bin\Debug\netcoreapp3.1\exercise_1.deps.json
+D:\C#_.Net_projects\Strings_StringBuilders\exercise_1\bin\Debug\netcoreapp3.1\exercise_1.runtimeconfig.json
+D:\C#_.Net_projects\Strings_StringBuilders\exercise_1\bin\Debug\netcoreapp3.1\exercise_1.runtimeconfig.dev.json
+D:\C#_.Net_projects\Strings_StringBuilders\exercise_1\bin\Debug\netcoreapp3.1\exercise_1.dll
+D:\C#_.Net_projects\Strings_StringBuilders\exercise_1\bin\Debug\netcoreapp3.1\exercise_1.pdb
+D:\C#_.Net_projects\Strings_StringBuilders\exercise_1\obj\Debug\netcoreapp3.1\exercise_1.csprojAssemblyReference.cache
+D:\C#_.Net_projects\Strings_StringBuilders\exercise_1\obj\Debug\netcoreapp3.1\exercise_1.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\Strings_StringBuilders\exercise_1\obj\Debug\netcoreapp3.1\exercise_1.AssemblyInfo.cs
+D:\C#_.Net_projects\Strings_StringBuilders\exercise_1\obj\Debug\netcoreapp3.1\exercise_1.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\Strings_StringBuilders\exercise_1\obj\Debug\netcoreapp3.1\exercise_1.dll
+D:\C#_.Net_projects\Strings_StringBuilders\exercise_1\obj\Debug\netcoreapp3.1\exercise_1.pdb
+D:\C#_.Net_projects\Strings_StringBuilders\exercise_1\obj\Debug\netcoreapp3.1\exercise_1.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C#_.Net_projects\if_else_switch_case_exercises\exercise_9\bin\Debug\netcoreapp3.1\exercise_9.exe
+D:\C#_.Net_projects\if_else_switch_case_exercises\exercise_9\bin\Debug\netcoreapp3.1\exercise_9.deps.json
+D:\C#_.Net_projects\if_else_switch_case_exercises\exercise_9\bin\Debug\netcoreapp3.1\exercise_9.runtimeconfig.json
+D:\C#_.Net_projects\if_else_switch_case_exercises\exercise_9\bin\Debug\netcoreapp3.1\exercise_9.runtimeconfig.dev.json
+D:\C#_.Net_projects\if_else_switch_case_exercises\exercise_9\bin\Debug\netcoreapp3.1\exercise_9.dll
+D:\C#_.Net_projects\if_else_switch_case_exercises\exercise_9\bin\Debug\netcoreapp3.1\exercise_9.pdb
+D:\C#_.Net_projects\if_else_switch_case_exercises\exercise_9\obj\Debug\netcoreapp3.1\exercise_9.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\if_else_switch_case_exercises\exercise_9\obj\Debug\netcoreapp3.1\exercise_9.AssemblyInfo.cs
+D:\C#_.Net_projects\if_else_switch_case_exercises\exercise_9\obj\Debug\netcoreapp3.1\exercise_9.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\if_else_switch_case_exercises\exercise_9\obj\Debug\netcoreapp3.1\exercise_9.dll
+D:\C#_.Net_projects\if_else_switch_case_exercises\exercise_9\obj\Debug\netcoreapp3.1\exercise_9.pdb
+D:\C#_.Net_projects\if_else_switch_case_exercises\exercise_9\obj\Debug\netcoreapp3.1\exercise_9.genruntimeconfig.cache
