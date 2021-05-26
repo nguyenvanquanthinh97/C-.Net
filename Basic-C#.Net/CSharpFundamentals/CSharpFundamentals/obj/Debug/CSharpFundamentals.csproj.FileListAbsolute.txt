@@ -1,0 +1,13 @@
+C:\Projects\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+C:\Projects\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+C:\Projects\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+C:\Projects\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojResolveAssemblyReference.cache
+C:\Projects\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+C:\Projects\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
+D:\C#_.Net_projects\Basic-C#.Net\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+D:\C#_.Net_projects\Basic-C#.Net\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+D:\C#_.Net_projects\Basic-C#.Net\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+D:\C#_.Net_projects\Basic-C#.Net\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojAssemblyReference.cache
+D:\C#_.Net_projects\Basic-C#.Net\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\Basic-C#.Net\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+D:\C#_.Net_projects\Basic-C#.Net\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb

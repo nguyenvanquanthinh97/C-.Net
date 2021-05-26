@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#_.Net_projects\\exercise_2\\exercise_2.csproj": {}
+    "D:\\C#_.Net_projects\\Basic-C#.Net\\exercise_2\\exercise_2.csproj": {}
   },
   "projects": {
-    "D:\\C#_.Net_projects\\exercise_2\\exercise_2.csproj": {
+    "D:\\C#_.Net_projects\\Basic-C#.Net\\exercise_2\\exercise_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#_.Net_projects\\exercise_2\\exercise_2.csproj",
+        "projectUniqueName": "D:\\C#_.Net_projects\\Basic-C#.Net\\exercise_2\\exercise_2.csproj",
         "projectName": "exercise_2",
-        "projectPath": "D:\\C#_.Net_projects\\exercise_2\\exercise_2.csproj",
+        "projectPath": "D:\\C#_.Net_projects\\Basic-C#.Net\\exercise_2\\exercise_2.csproj",
         "packagesPath": "C:\\Users\\NGUYENVANQUANTHINH\\.nuget\\packages\\",
-        "outputPath": "D:\\C#_.Net_projects\\exercise_2\\obj\\",
+        "outputPath": "D:\\C#_.Net_projects\\Basic-C#.Net\\exercise_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NGUYENVANQUANTHINH\\AppData\\Roaming\\NuGet\\NuGet.Config",
