@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\AbstractClassAndMembers\bin\Debug\netcoreapp3.1\AbstractClassAndMembers.exe
+D:\C#_.Net_projects\AbstractClassAndMembers\bin\Debug\netcoreapp3.1\AbstractClassAndMembers.deps.json
+D:\C#_.Net_projects\AbstractClassAndMembers\bin\Debug\netcoreapp3.1\AbstractClassAndMembers.runtimeconfig.json
+D:\C#_.Net_projects\AbstractClassAndMembers\bin\Debug\netcoreapp3.1\AbstractClassAndMembers.runtimeconfig.dev.json
+D:\C#_.Net_projects\AbstractClassAndMembers\bin\Debug\netcoreapp3.1\AbstractClassAndMembers.dll
+D:\C#_.Net_projects\AbstractClassAndMembers\bin\Debug\netcoreapp3.1\AbstractClassAndMembers.pdb
+D:\C#_.Net_projects\AbstractClassAndMembers\obj\Debug\netcoreapp3.1\AbstractClassAndMembers.csprojAssemblyReference.cache
+D:\C#_.Net_projects\AbstractClassAndMembers\obj\Debug\netcoreapp3.1\AbstractClassAndMembers.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\AbstractClassAndMembers\obj\Debug\netcoreapp3.1\AbstractClassAndMembers.AssemblyInfo.cs
+D:\C#_.Net_projects\AbstractClassAndMembers\obj\Debug\netcoreapp3.1\AbstractClassAndMembers.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\AbstractClassAndMembers\obj\Debug\netcoreapp3.1\AbstractClassAndMembers.dll
+D:\C#_.Net_projects\AbstractClassAndMembers\obj\Debug\netcoreapp3.1\AbstractClassAndMembers.pdb
+D:\C#_.Net_projects\AbstractClassAndMembers\obj\Debug\netcoreapp3.1\AbstractClassAndMembers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\Classes\Exercise_StopWatch\bin\Debug\netcoreapp3.1\Exercise_StopWatch.exe
+D:\C#_.Net_projects\Classes\Exercise_StopWatch\bin\Debug\netcoreapp3.1\Exercise_StopWatch.deps.json
+D:\C#_.Net_projects\Classes\Exercise_StopWatch\bin\Debug\netcoreapp3.1\Exercise_StopWatch.runtimeconfig.json
+D:\C#_.Net_projects\Classes\Exercise_StopWatch\bin\Debug\netcoreapp3.1\Exercise_StopWatch.runtimeconfig.dev.json
+D:\C#_.Net_projects\Classes\Exercise_StopWatch\bin\Debug\netcoreapp3.1\Exercise_StopWatch.dll
+D:\C#_.Net_projects\Classes\Exercise_StopWatch\bin\Debug\netcoreapp3.1\Exercise_StopWatch.pdb
+D:\C#_.Net_projects\Classes\Exercise_StopWatch\obj\Debug\netcoreapp3.1\Exercise_StopWatch.csprojAssemblyReference.cache
+D:\C#_.Net_projects\Classes\Exercise_StopWatch\obj\Debug\netcoreapp3.1\Exercise_StopWatch.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\Classes\Exercise_StopWatch\obj\Debug\netcoreapp3.1\Exercise_StopWatch.AssemblyInfo.cs
+D:\C#_.Net_projects\Classes\Exercise_StopWatch\obj\Debug\netcoreapp3.1\Exercise_StopWatch.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\Classes\Exercise_StopWatch\obj\Debug\netcoreapp3.1\Exercise_StopWatch.dll
+D:\C#_.Net_projects\Classes\Exercise_StopWatch\obj\Debug\netcoreapp3.1\Exercise_StopWatch.pdb
+D:\C#_.Net_projects\Classes\Exercise_StopWatch\obj\Debug\netcoreapp3.1\Exercise_StopWatch.genruntimeconfig.cache

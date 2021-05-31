@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#_.Net_projects\\Lists\\Lists.csproj": {}
+    "D:\\C#_.Net_projects\\Basic-C#.Net\\Lists\\Lists.csproj": {}
   },
   "projects": {
-    "D:\\C#_.Net_projects\\Lists\\Lists.csproj": {
+    "D:\\C#_.Net_projects\\Basic-C#.Net\\Lists\\Lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#_.Net_projects\\Lists\\Lists.csproj",
+        "projectUniqueName": "D:\\C#_.Net_projects\\Basic-C#.Net\\Lists\\Lists.csproj",
         "projectName": "Lists",
-        "projectPath": "D:\\C#_.Net_projects\\Lists\\Lists.csproj",
+        "projectPath": "D:\\C#_.Net_projects\\Basic-C#.Net\\Lists\\Lists.csproj",
         "packagesPath": "C:\\Users\\NGUYENVANQUANTHINH\\.nuget\\packages\\",
-        "outputPath": "D:\\C#_.Net_projects\\Lists\\obj\\",
+        "outputPath": "D:\\C#_.Net_projects\\Basic-C#.Net\\Lists\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NGUYENVANQUANTHINH\\AppData\\Roaming\\NuGet\\NuGet.Config",

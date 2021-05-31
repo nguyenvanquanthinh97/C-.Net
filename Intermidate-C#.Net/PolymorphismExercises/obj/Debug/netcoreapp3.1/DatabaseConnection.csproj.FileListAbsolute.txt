@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\PolymorphismExercises\bin\Debug\netcoreapp3.1\DatabaseConnection.exe
+D:\C#_.Net_projects\PolymorphismExercises\bin\Debug\netcoreapp3.1\DatabaseConnection.deps.json
+D:\C#_.Net_projects\PolymorphismExercises\bin\Debug\netcoreapp3.1\DatabaseConnection.runtimeconfig.json
+D:\C#_.Net_projects\PolymorphismExercises\bin\Debug\netcoreapp3.1\DatabaseConnection.runtimeconfig.dev.json
+D:\C#_.Net_projects\PolymorphismExercises\bin\Debug\netcoreapp3.1\DatabaseConnection.dll
+D:\C#_.Net_projects\PolymorphismExercises\bin\Debug\netcoreapp3.1\DatabaseConnection.pdb
+D:\C#_.Net_projects\PolymorphismExercises\obj\Debug\netcoreapp3.1\DatabaseConnection.csprojAssemblyReference.cache
+D:\C#_.Net_projects\PolymorphismExercises\obj\Debug\netcoreapp3.1\DatabaseConnection.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\PolymorphismExercises\obj\Debug\netcoreapp3.1\DatabaseConnection.AssemblyInfo.cs
+D:\C#_.Net_projects\PolymorphismExercises\obj\Debug\netcoreapp3.1\DatabaseConnection.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\PolymorphismExercises\obj\Debug\netcoreapp3.1\DatabaseConnection.dll
+D:\C#_.Net_projects\PolymorphismExercises\obj\Debug\netcoreapp3.1\DatabaseConnection.pdb
+D:\C#_.Net_projects\PolymorphismExercises\obj\Debug\netcoreapp3.1\DatabaseConnection.genruntimeconfig.cache

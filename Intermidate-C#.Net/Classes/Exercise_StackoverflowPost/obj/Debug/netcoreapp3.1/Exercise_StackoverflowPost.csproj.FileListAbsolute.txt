@@ -1,0 +1,12 @@
+D:\C#_.Net_projects\Classes\Exercise_StackoverflowPost\bin\Debug\netcoreapp3.1\Exercise_StackoverflowPost.exe
+D:\C#_.Net_projects\Classes\Exercise_StackoverflowPost\bin\Debug\netcoreapp3.1\Exercise_StackoverflowPost.deps.json
+D:\C#_.Net_projects\Classes\Exercise_StackoverflowPost\bin\Debug\netcoreapp3.1\Exercise_StackoverflowPost.runtimeconfig.json
+D:\C#_.Net_projects\Classes\Exercise_StackoverflowPost\bin\Debug\netcoreapp3.1\Exercise_StackoverflowPost.runtimeconfig.dev.json
+D:\C#_.Net_projects\Classes\Exercise_StackoverflowPost\bin\Debug\netcoreapp3.1\Exercise_StackoverflowPost.dll
+D:\C#_.Net_projects\Classes\Exercise_StackoverflowPost\bin\Debug\netcoreapp3.1\Exercise_StackoverflowPost.pdb
+D:\C#_.Net_projects\Classes\Exercise_StackoverflowPost\obj\Debug\netcoreapp3.1\Exercise_StackoverflowPost.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\Classes\Exercise_StackoverflowPost\obj\Debug\netcoreapp3.1\Exercise_StackoverflowPost.AssemblyInfo.cs
+D:\C#_.Net_projects\Classes\Exercise_StackoverflowPost\obj\Debug\netcoreapp3.1\Exercise_StackoverflowPost.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\Classes\Exercise_StackoverflowPost\obj\Debug\netcoreapp3.1\Exercise_StackoverflowPost.dll
+D:\C#_.Net_projects\Classes\Exercise_StackoverflowPost\obj\Debug\netcoreapp3.1\Exercise_StackoverflowPost.pdb
+D:\C#_.Net_projects\Classes\Exercise_StackoverflowPost\obj\Debug\netcoreapp3.1\Exercise_StackoverflowPost.genruntimeconfig.cache

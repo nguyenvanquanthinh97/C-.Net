@@ -1,0 +1,12 @@
+D:\C#_.Net_projects\InterfaceExercise\bin\Debug\netcoreapp3.1\WorkflowEngine.exe
+D:\C#_.Net_projects\InterfaceExercise\bin\Debug\netcoreapp3.1\WorkflowEngine.deps.json
+D:\C#_.Net_projects\InterfaceExercise\bin\Debug\netcoreapp3.1\WorkflowEngine.runtimeconfig.json
+D:\C#_.Net_projects\InterfaceExercise\bin\Debug\netcoreapp3.1\WorkflowEngine.runtimeconfig.dev.json
+D:\C#_.Net_projects\InterfaceExercise\bin\Debug\netcoreapp3.1\WorkflowEngine.dll
+D:\C#_.Net_projects\InterfaceExercise\bin\Debug\netcoreapp3.1\WorkflowEngine.pdb
+D:\C#_.Net_projects\InterfaceExercise\obj\Debug\netcoreapp3.1\WorkflowEngine.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\InterfaceExercise\obj\Debug\netcoreapp3.1\WorkflowEngine.AssemblyInfo.cs
+D:\C#_.Net_projects\InterfaceExercise\obj\Debug\netcoreapp3.1\WorkflowEngine.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\InterfaceExercise\obj\Debug\netcoreapp3.1\WorkflowEngine.dll
+D:\C#_.Net_projects\InterfaceExercise\obj\Debug\netcoreapp3.1\WorkflowEngine.pdb
+D:\C#_.Net_projects\InterfaceExercise\obj\Debug\netcoreapp3.1\WorkflowEngine.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\InterfaceTestability\bin\Debug\netcoreapp3.1\InterfaceTestability.exe
+D:\C#_.Net_projects\InterfaceTestability\bin\Debug\netcoreapp3.1\InterfaceTestability.deps.json
+D:\C#_.Net_projects\InterfaceTestability\bin\Debug\netcoreapp3.1\InterfaceTestability.runtimeconfig.json
+D:\C#_.Net_projects\InterfaceTestability\bin\Debug\netcoreapp3.1\InterfaceTestability.runtimeconfig.dev.json
+D:\C#_.Net_projects\InterfaceTestability\bin\Debug\netcoreapp3.1\InterfaceTestability.dll
+D:\C#_.Net_projects\InterfaceTestability\bin\Debug\netcoreapp3.1\InterfaceTestability.pdb
+D:\C#_.Net_projects\InterfaceTestability\obj\Debug\netcoreapp3.1\InterfaceTestability.csprojAssemblyReference.cache
+D:\C#_.Net_projects\InterfaceTestability\obj\Debug\netcoreapp3.1\InterfaceTestability.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\InterfaceTestability\obj\Debug\netcoreapp3.1\InterfaceTestability.AssemblyInfo.cs
+D:\C#_.Net_projects\InterfaceTestability\obj\Debug\netcoreapp3.1\InterfaceTestability.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\InterfaceTestability\obj\Debug\netcoreapp3.1\InterfaceTestability.dll
+D:\C#_.Net_projects\InterfaceTestability\obj\Debug\netcoreapp3.1\InterfaceTestability.pdb
+D:\C#_.Net_projects\InterfaceTestability\obj\Debug\netcoreapp3.1\InterfaceTestability.genruntimeconfig.cache

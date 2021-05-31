@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\InheritanceExercises\Exercise_DesignAStack\bin\Debug\netcoreapp3.1\Exercise_DesignAStack.exe
+D:\C#_.Net_projects\InheritanceExercises\Exercise_DesignAStack\bin\Debug\netcoreapp3.1\Exercise_DesignAStack.deps.json
+D:\C#_.Net_projects\InheritanceExercises\Exercise_DesignAStack\bin\Debug\netcoreapp3.1\Exercise_DesignAStack.runtimeconfig.json
+D:\C#_.Net_projects\InheritanceExercises\Exercise_DesignAStack\bin\Debug\netcoreapp3.1\Exercise_DesignAStack.runtimeconfig.dev.json
+D:\C#_.Net_projects\InheritanceExercises\Exercise_DesignAStack\bin\Debug\netcoreapp3.1\Exercise_DesignAStack.dll
+D:\C#_.Net_projects\InheritanceExercises\Exercise_DesignAStack\bin\Debug\netcoreapp3.1\Exercise_DesignAStack.pdb
+D:\C#_.Net_projects\InheritanceExercises\Exercise_DesignAStack\obj\Debug\netcoreapp3.1\Exercise_DesignAStack.csprojAssemblyReference.cache
+D:\C#_.Net_projects\InheritanceExercises\Exercise_DesignAStack\obj\Debug\netcoreapp3.1\Exercise_DesignAStack.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\InheritanceExercises\Exercise_DesignAStack\obj\Debug\netcoreapp3.1\Exercise_DesignAStack.AssemblyInfo.cs
+D:\C#_.Net_projects\InheritanceExercises\Exercise_DesignAStack\obj\Debug\netcoreapp3.1\Exercise_DesignAStack.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\InheritanceExercises\Exercise_DesignAStack\obj\Debug\netcoreapp3.1\Exercise_DesignAStack.dll
+D:\C#_.Net_projects\InheritanceExercises\Exercise_DesignAStack\obj\Debug\netcoreapp3.1\Exercise_DesignAStack.pdb
+D:\C#_.Net_projects\InheritanceExercises\Exercise_DesignAStack\obj\Debug\netcoreapp3.1\Exercise_DesignAStack.genruntimeconfig.cache

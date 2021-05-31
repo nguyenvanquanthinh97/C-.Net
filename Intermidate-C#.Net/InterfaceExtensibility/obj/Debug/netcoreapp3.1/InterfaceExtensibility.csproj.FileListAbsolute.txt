@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\InterfaceExtensibility\bin\Debug\netcoreapp3.1\InterfaceExtensibility.exe
+D:\C#_.Net_projects\InterfaceExtensibility\bin\Debug\netcoreapp3.1\InterfaceExtensibility.deps.json
+D:\C#_.Net_projects\InterfaceExtensibility\bin\Debug\netcoreapp3.1\InterfaceExtensibility.runtimeconfig.json
+D:\C#_.Net_projects\InterfaceExtensibility\bin\Debug\netcoreapp3.1\InterfaceExtensibility.runtimeconfig.dev.json
+D:\C#_.Net_projects\InterfaceExtensibility\bin\Debug\netcoreapp3.1\InterfaceExtensibility.dll
+D:\C#_.Net_projects\InterfaceExtensibility\bin\Debug\netcoreapp3.1\InterfaceExtensibility.pdb
+D:\C#_.Net_projects\InterfaceExtensibility\obj\Debug\netcoreapp3.1\InterfaceExtensibility.csprojAssemblyReference.cache
+D:\C#_.Net_projects\InterfaceExtensibility\obj\Debug\netcoreapp3.1\InterfaceExtensibility.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\InterfaceExtensibility\obj\Debug\netcoreapp3.1\InterfaceExtensibility.AssemblyInfo.cs
+D:\C#_.Net_projects\InterfaceExtensibility\obj\Debug\netcoreapp3.1\InterfaceExtensibility.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\InterfaceExtensibility\obj\Debug\netcoreapp3.1\InterfaceExtensibility.dll
+D:\C#_.Net_projects\InterfaceExtensibility\obj\Debug\netcoreapp3.1\InterfaceExtensibility.pdb
+D:\C#_.Net_projects\InterfaceExtensibility\obj\Debug\netcoreapp3.1\InterfaceExtensibility.genruntimeconfig.cache

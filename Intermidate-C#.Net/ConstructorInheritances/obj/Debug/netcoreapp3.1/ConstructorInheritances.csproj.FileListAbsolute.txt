@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\ConstructorInheritances\bin\Debug\netcoreapp3.1\ConstructorInheritances.exe
+D:\C#_.Net_projects\ConstructorInheritances\bin\Debug\netcoreapp3.1\ConstructorInheritances.deps.json
+D:\C#_.Net_projects\ConstructorInheritances\bin\Debug\netcoreapp3.1\ConstructorInheritances.runtimeconfig.json
+D:\C#_.Net_projects\ConstructorInheritances\bin\Debug\netcoreapp3.1\ConstructorInheritances.runtimeconfig.dev.json
+D:\C#_.Net_projects\ConstructorInheritances\bin\Debug\netcoreapp3.1\ConstructorInheritances.dll
+D:\C#_.Net_projects\ConstructorInheritances\bin\Debug\netcoreapp3.1\ConstructorInheritances.pdb
+D:\C#_.Net_projects\ConstructorInheritances\obj\Debug\netcoreapp3.1\ConstructorInheritances.csprojAssemblyReference.cache
+D:\C#_.Net_projects\ConstructorInheritances\obj\Debug\netcoreapp3.1\ConstructorInheritances.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\ConstructorInheritances\obj\Debug\netcoreapp3.1\ConstructorInheritances.AssemblyInfo.cs
+D:\C#_.Net_projects\ConstructorInheritances\obj\Debug\netcoreapp3.1\ConstructorInheritances.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\ConstructorInheritances\obj\Debug\netcoreapp3.1\ConstructorInheritances.dll
+D:\C#_.Net_projects\ConstructorInheritances\obj\Debug\netcoreapp3.1\ConstructorInheritances.pdb
+D:\C#_.Net_projects\ConstructorInheritances\obj\Debug\netcoreapp3.1\ConstructorInheritances.genruntimeconfig.cache

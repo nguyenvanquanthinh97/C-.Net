@@ -1,0 +1,16 @@
+D:\C#_.Net_projects\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csprojAssemblyReference.cache
+D:\C#_.Net_projects\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfo.cs
+D:\C#_.Net_projects\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.exe
+D:\C#_.Net_projects\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.deps.json
+D:\C#_.Net_projects\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.json
+D:\C#_.Net_projects\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.dev.json
+D:\C#_.Net_projects\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.dll
+D:\C#_.Net_projects\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.pdb
+D:\C#_.Net_projects\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.dll
+D:\C#_.Net_projects\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.pdb
+D:\C#_.Net_projects\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.genruntimeconfig.cache
+D:\C#_.Net_projects\AccessModifiers\bin\Debug\netcoreapp3.1\Amazons.dll
+D:\C#_.Net_projects\AccessModifiers\bin\Debug\netcoreapp3.1\Amazons.pdb
+D:\C#_.Net_projects\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csproj.CopyComplete

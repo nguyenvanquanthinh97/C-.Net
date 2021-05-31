@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\InterfacePolymorphisms\bin\Debug\netcoreapp3.1\InterfacePolymorphisms.exe
+D:\C#_.Net_projects\InterfacePolymorphisms\bin\Debug\netcoreapp3.1\InterfacePolymorphisms.deps.json
+D:\C#_.Net_projects\InterfacePolymorphisms\bin\Debug\netcoreapp3.1\InterfacePolymorphisms.runtimeconfig.json
+D:\C#_.Net_projects\InterfacePolymorphisms\bin\Debug\netcoreapp3.1\InterfacePolymorphisms.runtimeconfig.dev.json
+D:\C#_.Net_projects\InterfacePolymorphisms\bin\Debug\netcoreapp3.1\InterfacePolymorphisms.dll
+D:\C#_.Net_projects\InterfacePolymorphisms\bin\Debug\netcoreapp3.1\InterfacePolymorphisms.pdb
+D:\C#_.Net_projects\InterfacePolymorphisms\obj\Debug\netcoreapp3.1\InterfacePolymorphisms.csprojAssemblyReference.cache
+D:\C#_.Net_projects\InterfacePolymorphisms\obj\Debug\netcoreapp3.1\InterfacePolymorphisms.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\InterfacePolymorphisms\obj\Debug\netcoreapp3.1\InterfacePolymorphisms.AssemblyInfo.cs
+D:\C#_.Net_projects\InterfacePolymorphisms\obj\Debug\netcoreapp3.1\InterfacePolymorphisms.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\InterfacePolymorphisms\obj\Debug\netcoreapp3.1\InterfacePolymorphisms.dll
+D:\C#_.Net_projects\InterfacePolymorphisms\obj\Debug\netcoreapp3.1\InterfacePolymorphisms.pdb
+D:\C#_.Net_projects\InterfacePolymorphisms\obj\Debug\netcoreapp3.1\InterfacePolymorphisms.genruntimeconfig.cache

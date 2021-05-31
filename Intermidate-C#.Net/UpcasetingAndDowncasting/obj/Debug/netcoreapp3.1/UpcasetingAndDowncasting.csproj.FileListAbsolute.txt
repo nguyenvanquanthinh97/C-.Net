@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\UpcasetingAndDowncasting\bin\Debug\netcoreapp3.1\UpcasetingAndDowncasting.exe
+D:\C#_.Net_projects\UpcasetingAndDowncasting\bin\Debug\netcoreapp3.1\UpcasetingAndDowncasting.deps.json
+D:\C#_.Net_projects\UpcasetingAndDowncasting\bin\Debug\netcoreapp3.1\UpcasetingAndDowncasting.runtimeconfig.json
+D:\C#_.Net_projects\UpcasetingAndDowncasting\bin\Debug\netcoreapp3.1\UpcasetingAndDowncasting.runtimeconfig.dev.json
+D:\C#_.Net_projects\UpcasetingAndDowncasting\bin\Debug\netcoreapp3.1\UpcasetingAndDowncasting.dll
+D:\C#_.Net_projects\UpcasetingAndDowncasting\bin\Debug\netcoreapp3.1\UpcasetingAndDowncasting.pdb
+D:\C#_.Net_projects\UpcasetingAndDowncasting\obj\Debug\netcoreapp3.1\UpcasetingAndDowncasting.csprojAssemblyReference.cache
+D:\C#_.Net_projects\UpcasetingAndDowncasting\obj\Debug\netcoreapp3.1\UpcasetingAndDowncasting.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\UpcasetingAndDowncasting\obj\Debug\netcoreapp3.1\UpcasetingAndDowncasting.AssemblyInfo.cs
+D:\C#_.Net_projects\UpcasetingAndDowncasting\obj\Debug\netcoreapp3.1\UpcasetingAndDowncasting.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\UpcasetingAndDowncasting\obj\Debug\netcoreapp3.1\UpcasetingAndDowncasting.dll
+D:\C#_.Net_projects\UpcasetingAndDowncasting\obj\Debug\netcoreapp3.1\UpcasetingAndDowncasting.pdb
+D:\C#_.Net_projects\UpcasetingAndDowncasting\obj\Debug\netcoreapp3.1\UpcasetingAndDowncasting.genruntimeconfig.cache
