@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\ExtesionMethods\bin\Debug\netcoreapp3.1\ExtesionMethods.exe
+D:\C#_.Net_projects\ExtesionMethods\bin\Debug\netcoreapp3.1\ExtesionMethods.deps.json
+D:\C#_.Net_projects\ExtesionMethods\bin\Debug\netcoreapp3.1\ExtesionMethods.runtimeconfig.json
+D:\C#_.Net_projects\ExtesionMethods\bin\Debug\netcoreapp3.1\ExtesionMethods.runtimeconfig.dev.json
+D:\C#_.Net_projects\ExtesionMethods\bin\Debug\netcoreapp3.1\ExtesionMethods.dll
+D:\C#_.Net_projects\ExtesionMethods\bin\Debug\netcoreapp3.1\ExtesionMethods.pdb
+D:\C#_.Net_projects\ExtesionMethods\obj\Debug\netcoreapp3.1\ExtesionMethods.csprojAssemblyReference.cache
+D:\C#_.Net_projects\ExtesionMethods\obj\Debug\netcoreapp3.1\ExtesionMethods.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\ExtesionMethods\obj\Debug\netcoreapp3.1\ExtesionMethods.AssemblyInfo.cs
+D:\C#_.Net_projects\ExtesionMethods\obj\Debug\netcoreapp3.1\ExtesionMethods.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\ExtesionMethods\obj\Debug\netcoreapp3.1\ExtesionMethods.dll
+D:\C#_.Net_projects\ExtesionMethods\obj\Debug\netcoreapp3.1\ExtesionMethods.pdb
+D:\C#_.Net_projects\ExtesionMethods\obj\Debug\netcoreapp3.1\ExtesionMethods.genruntimeconfig.cache

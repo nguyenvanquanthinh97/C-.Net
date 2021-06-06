@@ -1,0 +1,13 @@
+D:\C#_.Net_projects\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.exe
+D:\C#_.Net_projects\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.deps.json
+D:\C#_.Net_projects\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.json
+D:\C#_.Net_projects\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.dev.json
+D:\C#_.Net_projects\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.dll
+D:\C#_.Net_projects\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.pdb
+D:\C#_.Net_projects\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csprojAssemblyReference.cache
+D:\C#_.Net_projects\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfoInputs.cache
+D:\C#_.Net_projects\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfo.cs
+D:\C#_.Net_projects\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\C#_.Net_projects\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.dll
+D:\C#_.Net_projects\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.pdb
+D:\C#_.Net_projects\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.genruntimeconfig.cache
